@@ -1,0 +1,64 @@
+﻿# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# Visual Studio for Mac settings
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotCover
+*.dotCover
+
+# Logs
+*.log
+
+# Azure build output
+*.Publish.xml
+*.pubxml
+*.publishproj
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+
+# .NET user secrets
+secrets.json
+
+# Docker files
+docker-compose.override.yml
+
+# Local database
+*.mdf
+*.ldf
+
+# Others
+*.vspscc
+*.vssscc
+.vs/
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
